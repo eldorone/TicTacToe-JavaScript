@@ -1,9 +1,8 @@
-# TicTacToe-JavaScript
-A simple Tic Tac Toe game built with HTML, CSS and JavaScript with an unbeatable AI, support local storage.
+# TicTacToe-JavaScript. [click here](https://eldorone-tictactoe.netlify.app/)
+A simple Tic Tac Toe game built with HTML, CSS and JavaScript.
 
-You can play it in [here](https://eldorone-tictactoe.netlify.app/).   Just give it a try!
 
-Screenshots:
+## Screenshots:
 
 Layout:
 
